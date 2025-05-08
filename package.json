@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "clean-css": "^5.3.3",
+    "swiper": "^11.2.6"
+  }
+}
